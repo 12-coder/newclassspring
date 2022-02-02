@@ -26,6 +26,8 @@
 	</dependencies>
 
 	<build>
+			<finalName>examproject</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
